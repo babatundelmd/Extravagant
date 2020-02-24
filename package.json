@@ -1,0 +1,21 @@
+{
+    "name": "Extravagant",
+    "displayName": "Extravagant",
+    "description": "An Extravagant Color Theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Extravagant Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Extravagant Theme-color-theme.json"
+            }
+        ]
+    }
+}
