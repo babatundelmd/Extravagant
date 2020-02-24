@@ -1,8 +1,9 @@
 {
-    "name": "Extravagant",
+    "name": "extravagant",
     "displayName": "Extravagant",
     "description": "An Extravagant Color Theme for Visual Studio Code",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "Babatunde Lamidi",
     "engines": {
         "vscode": "^1.42.0"
     },
