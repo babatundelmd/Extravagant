@@ -1,12 +1,11 @@
 {
-	"name": "Extravagant Theme",
+	"name": "Extravagant",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#480853",
+		"editor.background": "#2c0133",
 		"editor.foreground": "#f1bbd5",
 		"activityBarBadge.background": "#380441",
-		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.background": "#5f1854"
+		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
 		{
